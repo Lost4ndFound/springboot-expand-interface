@@ -1,0 +1,5 @@
+# -------------------  --------------------
+# ------------------- ApplicationContextInitializer --------------------
+context:
+  initializer:
+    classes: org.study.config.MyApplicationContextInitializer
